@@ -10,7 +10,7 @@ I build polished, high-performance web applications with a focus on interactive 
 
 ### Selected work
 
-- **NobodySurf** — Designed the UI and built the entire web frontend for the #1 free surfing video platform. Scaled to 100,000+ active users with complex search and blazing-fast UX.
+- **NobodySurf** — Designed the UI and built the entire web frontend for the #1 free surfing video platform. Scaled to 100,000+ active users with a polished search UI and blazing-fast UX.
 - **Scurid** — Owned the full product lifecycle from brand identity to a high-performance B2B platform (Next.js). Helped the client secure funding.
 - **Monochrome** — Built a smart home brand from the ground up with an animated, cutting-edge site using advanced GSAP animations.
 - **Enterprise clients** — Delivered pixel-perfect frontends for UBS, Deutsche Bank, European Parliament, ECB, and Skoda through agency work.
