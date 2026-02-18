@@ -1,6 +1,6 @@
 # Hey, I'm Cyrus 👋
 
-**Senior Frontend / Design Engineer** based in Berlin.
+**Senior Design Engineer (Frontend)** based in Berlin.
 
 I build polished, high-performance web applications with a focus on interactive experiences, motion, and pixel-perfect implementation. With 7 years of professional experience, I specialize in bridging the gap between design and engineering — turning complex ideas into clean, scalable code.
 
